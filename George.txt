@@ -1,6 +1,10 @@
+
 I'm George
 My first project
 
 --------------------------------------
 
-i'm a developer checkout george's file and commiting chnages :wq
+i'm a developer checkout george's file and commiting chnages
+
+I'm new developer commiting new changes
+
